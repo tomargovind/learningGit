@@ -10,4 +10,27 @@
 * git branch -> It will let you know your current branch.
 * git checkout -b <branch_name> -> For adding new branch.
 * git checkout <branch_name> -> For changing branch.
+<<<<<<< HEAD
 * git branch -d <branch_name> -> For deleting branch (Make sure you are in master branch.).
+=======
+* git branch -d <branch_name> -> For deleting branch (Make sure you are in master branch.).
+* git merge <branch_name> -> Merging that particular branch in the master branch (Make sure your current branch is master.)
+* git reset --hard HEAD^ -> For deleting last commit.
+* git reset --soft <commit_id> -> For removing commit, but changes sustain in staging area.
+* git restore --staged <file_name> -> For restoring changes.
+* git restore <file_name> -> For clearing non-staging area and restoring files as they were before.
+
+
+
+
+
+
+
+
+
+
+
+
+Remote -: Bada Computer
+Local -: Chote-Chote PCs
+>>>>>>> govindBranch
