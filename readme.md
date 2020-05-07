@@ -30,5 +30,5 @@
 - git commit --amend -> Lock the change without creating new commit. (esc+w+q+enter)
 
 
-Remote -: One Big Computer
+Remote -: One Big Computer;
 Local -: Small Small PCs
